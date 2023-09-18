@@ -32,4 +32,4 @@ En el siguiente enlace podemos empezar con *Markdown* sin demasiado esfuerzo: [g
 Se trata de una guía rápida de este código que me ha resultado de suma utilidad ==incluso para este documento== simple que acabo de codificar.
 
 Otro de los aspectos interesantes es el de ubicar imágenes en el documento y para presntar una imagen cualquiera, pues me presento yo:
-!`[Paco y sus cosas]
+![Paco y sus cosas](paco.png)"Paco y sus cosas"
