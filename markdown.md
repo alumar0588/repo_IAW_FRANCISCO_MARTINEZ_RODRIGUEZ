@@ -31,3 +31,5 @@ Además que en el propio texto podemos insertar código y se verá como sigue:
 En el siguiente enlace podemos empezar con *Markdown* sin demasiado esfuerzo: [guía rápida Markdown](https://www.markdownguide.org/cheat-sheet/)
 Se trata de una guía rápida de este código que me ha resultado de suma utilidad ==incluso para este documento== simple que acabo de codificar.
 
+Otro de los aspectos interesantes es el de ubicar imágenes en el documento y para presntar una imagen cualquiera, pues me presento yo:
+!`[Paco y sus cosas]
