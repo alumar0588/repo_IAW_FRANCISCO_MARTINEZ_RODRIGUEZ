@@ -33,3 +33,14 @@ Se trata de una guía rápida de este código que me ha resultado de suma utilid
 
 Otro de los aspectos interesantes es el de ubicar imágenes en el documento y para presntar una imagen cualquiera, pues me presento yo:
 ![Paco y sus cosas](paco.png)"Paco y sus cosas"
+
+Siguiendo con el taller nos encontramos con la tarea de crear una tabla; pues si hemos llegado hasta aquí seguro que soy capaz de continuar. 
+La **tabla** que voy a crear constará de tres filas y tres columnas. El *Título* de las columnas será: BAJO, MEDIO y ALTO respectivamente. Para probar la alineación de las celdas, configuraré una alineación diferente por columna.
+
+TABLA:
+| BAJO  | MEDIO | ALTO |
+| :---      |    :----:   | ---: |
+| *Markdown*  | HTML | Java  |
+| *Git*  | Css| PHP  |
+
+Pues si, me estaba refiriendo a mi *percepción* de la **dificultad** de varios lenguajes......
